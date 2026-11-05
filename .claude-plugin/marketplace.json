@@ -1,0 +1,12 @@
+{
+  "name": "bbtech",
+  "description": "Claude Code plugins by Blackbeard Technologies (https://blackbeard.tech)",
+  "owner": { "name": "Blackbeard Technologies", "url": "https://blackbeard.tech" },
+  "plugins": [
+    {
+      "name": "pair",
+      "description": "Pair your Claude Code session with a colleague's using a one-time code; end-to-end encrypted agent-to-agent messages.",
+      "source": { "source": "git-subdir", "url": "https://github.com/d0d55/pair.git", "path": "plugin" }
+    }
+  ]
+}
