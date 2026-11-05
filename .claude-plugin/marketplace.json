@@ -6,7 +6,7 @@
     {
       "name": "pair",
       "description": "Pair your Claude Code session with a colleague's using a one-time code; end-to-end encrypted agent-to-agent messages.",
-      "source": { "source": "git-subdir", "url": "https://github.com/d0d55/pair.git", "path": "plugin" }
+      "source": { "source": "git-subdir", "url": "https://github.com/blackbeard-tech/pair.git", "path": "plugin" }
     }
   ]
 }
